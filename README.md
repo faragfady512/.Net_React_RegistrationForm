@@ -11,6 +11,8 @@ The web page also allows retrieval of inserted data. The registration form captu
 
   ## Frontend:
 
+- To access the source code on the client-side-app branch
+
 - Developed using Reactjs with TypeScript.
   
 - Components are structured following clean architecture principles.
