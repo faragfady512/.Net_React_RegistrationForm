@@ -1,0 +1,4 @@
+C:\Users\faara\source\repos\BueTask.PL\BueReactClientSide.PL\obj\Debug\buereactclientside.pl.esproj.SuggestedBindingRedirects.cache
+C:\Users\faara\source\repos\BueTask.PL\BueReactClientSide.PL\obj\Debug\buereactclientside.pl.esproj.CoreCompileInputs.cache
+C:\Users\faara\Desktop\.Net_React_RegistrationForm\BueReactClientSide.PL\obj\Debug\buereactclientside.pl.esproj.SuggestedBindingRedirects.cache
+C:\Users\faara\Desktop\.Net_React_RegistrationForm\BueReactClientSide.PL\obj\Debug\buereactclientside.pl.esproj.CoreCompileInputs.cache
